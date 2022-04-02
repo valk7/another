@@ -20,7 +20,6 @@
 # Gameboot
 * game_ext_plugin.sprx
 * /dev_hdd0/tmp/gameboot/
-
 * custom_render_plugin.rco
 * gameboot_multi.ac3
 * gameboot_stereo.ac3
