@@ -27,6 +27,11 @@
 
 
 # Icons
+* icons.qrc
+* /dev_rewrite/vsh/resource/qgl/
+
+
+# PSN
 * xmb_ingame.rco
 * xmb_plugin_normal.rco
 * /dev_rewrite/vsh/resource/
@@ -38,3 +43,8 @@
 * profil_plugin.rco
 * profil_plugin_mini.rco
 * /dev_rewrite/vsh/resource/
+
+
+# Wave
+* lines.qrc
+* /dev_rewrite/vsh/resource/qgl/
