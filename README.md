@@ -2,11 +2,13 @@
 * rhm.qrc
 * /dev_rewrite/vsh/resource/qgl/
 
+
 # Button
 * impose_plugin.rco
 * premo_plugin.rco
 * system_plugin.rco
 * /dev_rewrite/vsh/resource/
+
 
 # Coldboot
 * coldboot.raf
@@ -14,18 +16,22 @@
 * coldboot_stereo.ac3
 * /dev_rewrite/vsh/resource/
 
+
 # Gameboot
 * game_ext_plugin.sprx
 * /dev_hdd0/tmp/gameboot/
+
 * custom_render_plugin.rco
 * gameboot_multi.ac3
 * gameboot_stereo.ac3
 * /dev_rewrite/vsh/resource/
 
+
 # Icons
 * xmb_ingame.rco
 * xmb_plugin_normal.rco
 * /dev_rewrite/vsh/resource/
+
 
 # Trophy
 * np_trophy_ingame.rco
